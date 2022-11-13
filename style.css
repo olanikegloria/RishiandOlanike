@@ -1,28 +1,44 @@
-:root {
-    --main-white: #f0f0f0;
-    --main-red: #be3144;
-    --main-blue: #45567d;
-    --main-gray: #303841;
+*{
+    text-transform:Capitalize;
+    background-color: blue;
+    margin:10px;
+    padding:10px;
 }
-html {
-    box-sizing: border-box;
-    font-size: 62.5%;
-    scroll-behavior: smooth;
-}
-*, *::before, *::after {
-    box-sizing: inherit;
-}
-* {
-    margin: 0;
-    padding: 0;
-}
-user agent stylesheet
-html {
-    display: block;
-}
-*, *::before, *::after {
-    box-sizing: inherit;
-}
-*, *::before, *::after {
-    box-sizing: inherit;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
