@@ -1,11 +1,34 @@
 *{
     text-transform:Capitalize;
     background-color: blue;
-    margin:10px;
-    padding:10px;
+    margin:5px;
+    padding:5px;
+}
+ul{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-content:center;
+    list-style:none;
+    
+}
+ul li a{
+    color:white;
 }
 
+.welcome-section{
+    display:flex;
+    align-item:center;
+    justify-content:center;
+    font-size:30px;
+    margin:3px;
+}
 
+.projects-image{
+    height:250px;
+    width:250px;
+   
+}
 
 
 
